@@ -1,0 +1,15 @@
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.exe
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.deps.json
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.pdb
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.dll
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\refint\ConsoleApp6.dll
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.pdb
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+\\server\Users\Public\ИТб-211\ОС\Мат.Логика\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ref\ConsoleApp6.dll
